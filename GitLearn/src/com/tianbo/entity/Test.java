@@ -8,4 +8,6 @@ public class Test {
     private String id;
 
     private Integer price;
+
+    private Integer sss;
 }
