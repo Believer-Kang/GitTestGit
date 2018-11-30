@@ -6,4 +6,6 @@ package com.tianbo.entity;
 public class Test {
 
     private String id;
+
+    private Integer price;
 }
