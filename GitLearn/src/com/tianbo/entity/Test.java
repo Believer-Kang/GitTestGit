@@ -10,4 +10,6 @@ public class Test {
     private Integer price;
 
     private Integer sss;
+    
+    private int ids;
 }
